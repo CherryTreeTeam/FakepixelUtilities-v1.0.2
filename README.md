@@ -54,8 +54,6 @@ All collected pricing parameters are openly stored inside our hosting infrastruc
 Download now from:
 [Our Website](https://cherryteam.page.gd) | [GitHub](https://github.com/CherryTreeTeam/FakepixelUtilities/releases/tag/v1.0.2)
 
-|| <@&1505439423028920420> ||
-
 ## ✨ Features
 - **SkyBlock-Only Trigger System:** Auto-activates strictly inside SkyBlock instances. Auto-drops execution cycles on proxy hub changes (`/l`, `/lobby`, `/hub`) to maintain 0% background overhead.
 - **Flawless Potion & Book Parsers:** Custom NBT fallback guards protect dynamic items (like Absorption VII) from data collisions.
